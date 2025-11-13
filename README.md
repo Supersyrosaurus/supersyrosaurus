@@ -10,7 +10,7 @@ I’m currently studying **AI and Data Science**, with a strong interest in how 
 My curiosity has led me to explore areas like **cloud computing**, **automation**, and **machine learning**, while developing a solid foundation in **software development** and **data-driven systems**.
 
 I enjoy working on hands-on projects that help me learn by doing — from creating **Python scripts** and **web scrapers** to hosting **web applications on AWS**.  
-Recently, I’ve also been learning more about **virtualisation**, **Linux environments**, and **quantum computing**.
+Recently, I’ve also been learning more about **AI automation** on N8N and how to implement AI agents for businesses.
 
 ---
 
@@ -18,13 +18,14 @@ Recently, I’ve also been learning more about **virtualisation**, **Linux envir
 - Artificial Intelligence  
 - Cloud Computing (AWS & Azure)  
 - Software Development
-- Automation   
+- AI Automation   
 
 
 ---
 
 ### ⚙️ Tools & Technologies
-- **Languages:** Python, Java, SQL, HTML/CSS  
+- **Languages:** Python, Java, SQL, HTML/CSS/JS
+- **Automation:** N8N (Current Project)
 - **Cloud:** AWS, Azure  
 - **OS:** Linux, Windows  
 - **Other:** Git, Docker (beginner), Jupyter, VS Code  
@@ -33,8 +34,9 @@ Recently, I’ve also been learning more about **virtualisation**, **Linux envir
 
 ### 📈 Current Focus
 - Developing projects that combine **AI** and **cloud technologies**  
-- Expanding knowledge of **data engineering** and **software architecture**  
-- Building a portfolio that reflects curiosity, creativity, and practical problem-solving  
+- Expanding knowledge of **data engineering** and **software architecture**
+- **Learning** and **Earning** cloud (AWS/Azure) certifications
+- Building a portfolio that reflects curiosity, creativity, and practical problem-solving
 
 ---
 
